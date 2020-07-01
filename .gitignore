@@ -1,0 +1,17 @@
+**/out/
+**/.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+
+**/.gradle/**
+**/.gradle/*
+**/build/
+
+
+!**/gradle/wrapper/gradle-wrapper.jar
+**/log
+**/logs
+
+./volumes/
+**/volumes/
